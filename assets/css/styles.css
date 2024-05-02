@@ -1,0 +1,196 @@
+
+
+html {
+   background-image: 
+      url("../img/name.png"),
+      url("../img/stands.png"),
+      url("../img/desk.png"),
+      url("../img/joshua.png"),
+      url("../img/stool.png"),
+      url("../img/pie.png"),
+      url("../img/bg.png");
+   background-position: center; /* Center the image */
+   background-repeat: no-repeat; /* Do not repeat the image */
+   background-size: cover; /* Resize the background image to cover the entire container */
+   background-color: #585e5c;
+   width: 100%;
+   height: 100%;
+   overflow: hidden;
+}
+
+.opening{
+   background-image: url("../img/openingText.png");
+   width: 100vw;
+   height: 100vh;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+   z-index: 100;
+}
+
+.ingreds {
+   position: absolute;
+   vertical-align: bottom;
+   width: 90vw;
+   height: 90vh;
+   margin: 4vw;
+}
+   .ingred1 {
+      background-image: url("../img/smallApple.png");
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+   }
+   .ingred2 {
+      background-image: url("../img/smallPotion.png");
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+   }
+   .ingred3 {
+      background-image: url("../img/smallFly.png");
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+   }
+   .ingredPlace1 {
+      width: 100px;
+      height: 100px;
+      position: absolute;
+      top: 150px;
+      left: 1580px;
+   }
+   .ingredPlace2 {
+      width: 100px;
+      height: 100px;
+      position: absolute;
+      top: 250px;
+      left: 1450px;
+   }
+   .ingredPlace3 {
+      width: 100px;
+      height: 100px;
+      position: absolute;
+      top: 310px;
+      left: 1600px;
+   }
+
+.pie {
+   background-image: url("../img/pie.png");
+   background-repeat: no-repeat;
+   width: 250px;
+   height: 250px;
+   position: absolute;
+   top: 80vh;
+   left: 80vw;
+}
+
+.wow{
+   background-image: url("../img/wow.png");
+   background-repeat: no-repeat;
+   width: 496px;
+   height: 440px;
+   position: absolute;
+   top: 10px;
+   left: 1350px;
+}
+
+.ob1 {
+   position: absolute;
+   width: 300px;
+   top: 500px;
+   left: 100px;
+}
+.ob2 {
+   position: absolute;
+   width: 350px;
+   top: 45px;
+   left: -50px;
+}
+.ob3 {
+   position: absolute;
+   width: 300px;
+   top: 330px;
+   left: 1030px;
+}
+
+.p111{
+   background-image: url("../img/111.png");
+   width: 100vw;
+   height: 100vh;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+}
+.p112{
+   background-image: url("../img/112.png");
+   width: 100vw;
+   height: 100vh;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+}
+.p113{
+   background-image: url("../img/113.png");
+   width: 100vw;
+   height: 100vh;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+}
+.p122{
+   background-image: url("../img/122.png");
+   width: 100vw;
+   height: 100vh;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+}
+.p123{
+   background-image: url("../img/123.png");
+   width: 100vw;
+   height: 100vh;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+}
+.p133{
+   background-image: url("../img/133.png");
+   width: 100vw;
+   height: 100vh;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+}
+.p222{
+   background-image: url("../img/222.png");
+   width: 100vw;
+   height: 100vh;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+}
+.p223{
+   background-image: url("../img/223.png");
+   width: 100vw;
+   height: 100vh;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+}
+.p233{
+   background-image: url("../img/233.png");
+   width: 100vw;
+   height: 100vh;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+}
+.p333{
+   background-image: url("../img/333.png");
+   width: 100vw;
+   height: 100vh;
+   position: absolute;
+   top: 0px;
+   left: 0px;
+}
