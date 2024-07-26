@@ -9,10 +9,11 @@ html {
       url("../img/stool.png"),
       url("../img/pie.png"),
       url("../img/bg.png");
-   background-position: center; /* Center the image */
+   /* background-position: center; Center the image */
    background-repeat: no-repeat; /* Do not repeat the image */
-   background-size: cover; /* Resize the background image to cover the entire container */
+   /* background-size: cover; Resize the background image to cover the entire container */
    background-color: #585e5c;
+   position: absolute;
    width: 100%;
    height: 100%;
    overflow: hidden;
@@ -20,6 +21,7 @@ html {
 
 .opening{
    background-image: url("../img/openingText.png");
+   background-repeat: no-repeat;
    width: 100vw;
    height: 100vh;
    position: absolute;
@@ -116,8 +118,8 @@ html {
 
 .p111{
    background-image: url("../img/111.png");
-   width: 100vw;
-   height: 100vh;
+   width: 100%;
+   height: 100%;
    position: absolute;
    top: 0px;
    left: 0px;
